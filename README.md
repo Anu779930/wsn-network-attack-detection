@@ -41,10 +41,10 @@ Built with Python (Tkinter GUI), Scikit-learn, XGBoost, Pandas, and Seaborn.
 ![Start Screen](https://raw.githubusercontent.com/Anu779930/wsn-network-attack-detection/main/images/gui_start_screen.png)  
 
 ### Upload Dataset  
-![Upload Dataset](https://raw.githubusercontent.com/Anu779930/wsn-network-attack-detection/main/images/dataset_upload_in_gui.png)  
+![Upload Dataset](https://raw.githubusercontent.com/Anu779930/wsn-network-attack-detection/main/images/dataset_upload.png)  
 
 ### Preprocessing Dataset  
-![Preprocessing](https://raw.githubusercontent.com/Anu779930/wsn-network-attack-detection/main/images/dataprocessing_in_gui.png)  
+![Preprocessing](https://raw.githubusercontent.com/Anu779930/wsn-network-attack-detection/main/images/datapreprocessing_in_gui.png)  
 
 ---
 
