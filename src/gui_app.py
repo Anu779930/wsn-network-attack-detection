@@ -44,7 +44,7 @@ main.title("Detection Of Network Layer Attacks In Wireless Sensor Networks")
 main.geometry("1920x1020")
 # setting and re-sizing background image 
 # Load and store the image globally
-image = Image.open("A13.PNG")
+image = Image.open("Background_image.PNG")
 copy_of_image = image.copy()
 photo = ImageTk.PhotoImage(copy_of_image)
 
