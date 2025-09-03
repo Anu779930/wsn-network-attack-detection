@@ -27,7 +27,7 @@ from sklearn.preprocessing import normalize
 from sklearn.decomposition import PCA
 from PIL import Image, ImageTk
 import os
-os.chdir(r"C:\Users\vsanu\OneDrive\Desktop\Wormhole and Sybil Attack")
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
 #declaring Variables
 global filename
 global X,Y
